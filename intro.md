@@ -1,5 +1,7 @@
 # Introduction: 
 
+Hi, I'm Tyler. 
+
 I wrote this e-book throughout the development of my first custom (and heavily hypothetical) programming language. I embarked on the journey for honors credit in my course on the Principles of Programming Languages in Fall 2015. 
 
 ## Motivation

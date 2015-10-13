@@ -1,6 +1,5 @@
 # Summary
 
-* [Description](README.md)
 * [Introduction](intro.md)
 * [Grammar](grammar.md)
 * [I shall call it Printdown!](printdown.md)

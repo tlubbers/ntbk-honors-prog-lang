@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](0.md)
+* [Introduction](intro.md)
 * [The Problem](the_problem.md)
 

@@ -3,9 +3,6 @@
 How will Printdown see words? How will it separate input into words? I think I should keep it as simple as possible, so I am going to have PrintDown just split at white space. 
 
 
-
-
-
 ```js
 function Printdown () {
     var dict = {};

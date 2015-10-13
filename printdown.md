@@ -1,4 +1,4 @@
-# Printdown
+# I shall call it Printdown!
 
 I think I now know enough about the development of programming languages to define my goals for this project. I have scrapped the home automation plan, and decided to focus on the printing domain. Here is what I am planning. 
 

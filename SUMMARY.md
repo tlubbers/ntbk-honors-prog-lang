@@ -3,5 +3,5 @@
 * [Introduction](intro.md)
 * [Language is Language](language.md)
 * [Printdown](printdown.md)
-* Input Splitting
+* [Input Splitting](input_splitting.md)
 

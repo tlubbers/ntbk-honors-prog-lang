@@ -5,7 +5,6 @@ Hi, I'm Tyler.
 
 I wrote this e-book throughout the development of my first custom (and heavily hypothetical) programming language. I embarked on the journey for honors credit in my course on the Principles of Programming Languages in Fall 2015. 
 
-
 To be clear, I am starting out with little to no knowledge on the development of programming languages. I know how to use computer languages, but I do not know how they use things. As I learn new topics, surely any goal I initially define will be short sighted.  
 
 - Goal #1 - Understand how programming languages do things. 

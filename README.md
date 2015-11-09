@@ -1,3 +1,5 @@
-# The [Insert Name Here, Once I Know What I'm Doing] Programming Language
+# The Printdown Programming Language
 
-Learning how to develop a programming Language - An Honors Project for Principles of Programming Languages
+### A theoretical programming language for print projects. 
+
+**Written By:** Tyler Lubbers, Fall 2015

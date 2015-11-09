@@ -1,4 +1,4 @@
-# Motivation: 
+ 
 
 Hi, I'm Tyler. 
 

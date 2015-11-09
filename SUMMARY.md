@@ -2,5 +2,8 @@
 
 * [Authors Note](authorsnote.md)
 * [Grammar](grammar.md)
-* [Syntax](input_splitting.md)
-
+* [Syntax](syntax.md)
+* [Semantics](semantics.md)
+* [Applications](applications.md)
+* [Caveats](caveats.md)
+* [Final Thoughts](finalthoughts.md)

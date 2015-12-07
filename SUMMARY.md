@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Authors Note](authorsnote.md)
 * [Why](applications.md)
-* [What](syntax.md)
+* [What](what.md)
 * [Caveats](caveats.md)
 * [Final Thoughts](finalthoughts.md)
 

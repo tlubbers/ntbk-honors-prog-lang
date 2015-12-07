@@ -9,7 +9,7 @@ I chose to research the processes and concepts required to develop a programming
 
 I defined three main goals to guide me throughout this project. 
 
-1. Why does someone choose to develop a programming language?
+1. Why develop a programming language?
 2. How does someone start building a programming language?
 3. What problems do program language developers face throughout development? 
 

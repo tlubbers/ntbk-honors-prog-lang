@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Authors Note](authorsnote.md)
 * [Why](why.md)
-* [What](what.md)
 * [How](how.md)
+* [What](what.md)
 * [Final Thoughts](finalthoughts.md)
 

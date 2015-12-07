@@ -1,6 +1,6 @@
 # Why make a programming language?
 
-
+The answer to this question is very simple. A programming language is designed to solve a problem. Some languages are meant to solve lots of problems, and others (often called domain style languages) are meant to solve a small set of problems in a particular **domain**.
 
 ## Authors Note
 For a little under four years, I worked at a small print shop in the downtown district of my hometown. The job-title I made up for myself was "Print Specialist". I worked daily with any number of different printers, scanners, plotters, etc.

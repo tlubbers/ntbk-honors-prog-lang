@@ -4,6 +4,6 @@
 * [Authors Note](authorsnote.md)
 * [Why](why.md)
 * [What](what.md)
-* [How](caveats.md)
+* [How](how.md)
 * [Final Thoughts](finalthoughts.md)
 

@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Authors Note](authorsnote.md)
-* [Why](applications.md)
+* [Why](why.md)
 * [What](what.md)
-* [Caveats](caveats.md)
+* [How](caveats.md)
 * [Final Thoughts](finalthoughts.md)
 

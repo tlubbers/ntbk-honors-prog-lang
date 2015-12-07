@@ -11,11 +11,7 @@ I defined three main goals to guide me throughout this project.
 
 1. Why does someone choose to develop a programming language?
 2. How does someone start building a programming language?
-3. 
+3. What problems do program language developers face throughout development? 
 
-## Where is this going?
 
-I have no idea. I can give you my best guess. 
-
-I know that a programming language will have a purpose, or a set of purposes that it's written to fulfill.  Once I understand the basics of defining a programming language, I will able to identify a problem for it to solve. As of right now, I plan on developing something in the realm of home automation, or maybe print design. 
 

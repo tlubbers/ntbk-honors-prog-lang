@@ -1,4 +1,6 @@
-# Applications
+# Why make a programming language?
+
+
 
 ## Authors Note
 For a little under four years, I worked at a small print shop in the downtown district of my hometown. The job-title I made up for myself was "Print Specialist". I worked daily with any number of different printers, scanners, plotters, etc.

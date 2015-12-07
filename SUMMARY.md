@@ -1,7 +1,7 @@
 # Summary
 
 * [Authors Note](authorsnote.md)
-* [Applications](applications.md)
+* [Why](applications.md)
 * [Syntax](syntax.md)
 * [Semantics](semantics.md)
 * [Caveats](caveats.md)

@@ -1,5 +1,5 @@
  
-# A note from the author:
+# A note from the author
 
 Hi, I'm Tyler. 
 

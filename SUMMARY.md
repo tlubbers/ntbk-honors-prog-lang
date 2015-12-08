@@ -1,5 +1,4 @@
 # Summary
-
 * [Introduction](authorsnote.md)
 * [Why do we need printdown?](why.md)
 * [How would I start making printdown?](how.md)

@@ -1,4 +1,5 @@
-# 
+# The Printdown Programming Language
+_A theoretical programming language developed by Tyler Lubbers_
 
 ## A note from the author
 

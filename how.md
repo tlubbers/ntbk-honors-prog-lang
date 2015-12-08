@@ -1,11 +1,11 @@
 # How do I start developing printdown?
 
-As you may except, there are many aspects to a programming language, and countless issues to consider when making design choices. For the purpose of this report, I've narrowed it down to overviews of the foundational 
+As you may except, there are many aspects to a programming language, and countless issues to consider when making design choices. For the purpose of this report, I've narrowed it down to overviews of the two concepts found at the foundation of any programming language, syntax and semantics. 
 
 
-# Input Splitting
+# Syntax
 
-How will Printdown see words? How will it separate input into words? I think I should keep it as simple as possible, so I am going to have PrintDown just split at white space. 
+How will printdown see words? How will it separate input into words? To keep it simple, I chose to have printdown split at white space. 
 
 
 ```js

@@ -34,6 +34,10 @@ What problems exist in the "describe print setting domain"? Which problems will 
 
 The primary goal of language is to provide a universal method by which to define print settings for a project. One single way to define print settings, that theoretically will work with any printer.  
 
+## What's next?
 
+Well first, I'm naming the language **printdown**, Inspired by the fantastic and simple solutions provided by the markdown markup language. 
+
+The next section will detail **how** to go about designing printdown. 
 
 

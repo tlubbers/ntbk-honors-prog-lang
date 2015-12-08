@@ -16,6 +16,7 @@ I defined three main questions to guide me throughout this project.
 
 ### Report Format
 
-This report has been separated into three main sections, based on the three aforementioned questions. Some additional analysis is provided in the final section, titled "Further Thoughts",.
+This report has been separated into three main sections, based on the three aforementioned questions. Some additional analysis is provided in the final section, titled "Further Thoughts".
 
+I wrote this report assuming the reader has a basic understanding of programming. Some topics are supported by the inclusion of code snippets, which I wrote in javascript. Readers familiar with basic programming will have an easier time understanding these sections, but full comprehension of the code is not required. 
 

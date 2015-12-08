@@ -1,4 +1,7 @@
-# How do programming languages get started?
+# How do I start developing printdown?
+
+As you may except, there are many aspects to a programming language, and countless issues to consider when making design choices. For the purpose of this report, I've narrowed it down to overviews of the foundational 
+
 
 # Input Splitting
 

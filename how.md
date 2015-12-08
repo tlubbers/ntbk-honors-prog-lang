@@ -68,3 +68,9 @@ var BasicSettingWords = {
     }
 };
 ```
+
+## What does all of this mean? What's next?
+
+The main point of the (extremely rudimentary) syntax and semantics definitions above is to formalize a very simple point about print down. That is, printdown will look through text, split it up into tokens whenever it sees a space, and then go through those tokens and make sure all the tokens are either words it understands or numbers.
+
+This may seem overly simple, and it kind of is, but it is also very powerful. We will see this power in the next section. 

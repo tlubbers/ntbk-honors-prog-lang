@@ -5,8 +5,9 @@ As you may except, there are many aspects to a programming language, and countle
 
 # Syntax
 
-How will printdown see words? How will it separate input into words? To keep it simple, I chose to have printdown split at white space. 
+How will printdown see words? How will it separate input into words? What should it do if it sees a number?
 
+These design choices are very important to a programming languages usability, as well as it's capabilities. The choices I made can be seen in the following source code (discussed below).
 
 ```js
 function Printdown () {
@@ -32,9 +33,38 @@ function Printdown () {
             } else if (!isNaN(num_val)) {
                 this.stack.push(num_val);
             } else {
-                throw "Unknown word";
+                throw "Invalid word";
             }
         }
     };
 }
+```
+
+The code above tells us the following things about printdown's syntax. 
+
+- printdown separates input words by white space. 
+- printdown has a dictionary of words that is referenced during input, if a word matches its pushed on the stack
+- if the word is a number, printdown pushes it onto a stack and then continues with input
+
+## Semantics
+The dictionary I talked about above will be pre-populated with words that printdown understands and knows what to do with.
+
+The definitions of the words in the dictionary comprise the semantics of printdown. Semantics can be thought of as the meaning of words and symbols recognized by printdown. 
+
+Here is an example of how printdown's semantics could be defined. 
+
+```js
+var BasicSettingWords = {
+    // NUMCOPIES means the user is about to tell us how many copies of the document should be printed
+    "NUMCOPIES": function (terp) {
+        if (terp.stack.length < 1) throw "Not enough items on stack";
+        var num_copies = terp.stack.pop();
+        // Inform the printer
+    },
+    // PAPERTYPE means the user is about to tell us what kind of paper to print on
+    "PAPERTYPE": function (terp) {
+        if (terp.stack.length < 1) throw "Not enough items on stack";
+        var paper_type = terp.stack.pop();
+    }
+};
 ```

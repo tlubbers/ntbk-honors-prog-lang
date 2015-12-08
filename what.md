@@ -20,6 +20,19 @@ Now when you double click the `brochure.printdown` file from the file explorer, 
 
 This scenario is possible using only the syntax and semantics currently discussed. Of course the backend operations concerning print drivers will be immensely complicated, but from a users standpoint, that's how it would work. 
 
-There are any number of problems this would address. One being, if you wanted to get the brochure printed at a print shop, you can be assured the right print settings will be used by including a printdown file. Speaking of printshops, this technology would lessen their work load extensively. If I would of had printdown when I was a print specialist, it would of been heaven on earth. 
+There are any number of problems this would address. One being, if you wanted to get the brochure printed at a print shop, you can be assured the right print settings will be used by including a printdown file. 
+
+Speaking of printshops, this technology would lessen their work load extensively. If I would of had printdown when I was a print specialist, it would of been heaven on earth. Especially if the syntax and semantics were updated to include more advanced features. Consider the following "advanced" printdown file. 
+
+```
+color 
+    yes if(page_has_img)
+two-sided 
+    range[yes pages(1..5), no pages(5..10)]
+papertype 
+    glossy if(frontside) & matte if(backside)
+paperweight 
+    100# text
+```
 
 

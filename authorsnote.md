@@ -14,4 +14,8 @@ I defined three main questions to guide me throughout this project.
 3. What problems do program language developers face throughout development? 
 
 
+### Report Format
+
+This report has been separated into three main sections, based on the three aforementioned questions. Some additional analysis is provided in the final section, titled "Further Thoughts",.
+
 

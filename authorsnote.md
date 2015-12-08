@@ -11,7 +11,7 @@ I defined three main questions to guide me throughout this project.
 
 1. Why develop a programming language?
 2. How do programming languages get started?
-3. What problems do program language developers face throughout development? 
+3. What would my language look like in action? 
 
 
 ### Report Format
